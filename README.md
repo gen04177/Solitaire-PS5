@@ -1,5 +1,5 @@
 # Solitaire-PS5
-This is an SDL2/C++ game for jailbroken PS5 (1.xx-4xx).
+This is an SDL2/C++ game for jailbroken PS5 (1.xx-5xx).
 
 ## Prerequisites
 - elfldr.elf
@@ -18,6 +18,6 @@ This is an SDL2/C++ game for jailbroken PS5 (1.xx-4xx).
 Play it with drag and drop using the left analog stick+Cross, reset with R1, pause music with L1, and let the AI play moves with the Touchpad.
 
 ## Credits
-J. Tornblom - SDK and required payloads.
+- ps5-payload-sdk
 
 More info: https://github.com/marcelurpi/Solitaire
